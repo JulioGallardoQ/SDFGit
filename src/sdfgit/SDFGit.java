@@ -26,6 +26,11 @@ public class SDFGit {
         System.out.println("What is your second number ");
         int num2 =  sc.nextInt();
         
+        
+        int mult =  num1 * num2;
+        
+        
+        
     }
     
 }
