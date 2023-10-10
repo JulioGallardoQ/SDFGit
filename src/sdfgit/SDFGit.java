@@ -19,6 +19,7 @@ public class SDFGit {
         
         System.out.println("Hello World");
         
+
         System.out.println("What is your first number ");
         Scanner sc = new Scanner (System.in);
         int num1 =  sc.nextInt();
@@ -28,7 +29,12 @@ public class SDFGit {
         
         
         int mult =  num1 * num2;
+
+        double M1= 10000000;
+        double M2= 20000000;
+
         
+        double multi = M1*M2;
         
         
     }
